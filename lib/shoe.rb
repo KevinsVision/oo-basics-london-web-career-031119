@@ -13,3 +13,4 @@ class Shoe
   end
   Shoe.new
 end
+end
