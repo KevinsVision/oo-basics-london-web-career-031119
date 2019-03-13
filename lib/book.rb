@@ -1,3 +1,3 @@
 class book
-  end
+end
 
